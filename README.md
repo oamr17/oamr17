@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Profesional de Gestión de la Información con formación en análisis de datos,
+  Lcdo. Gestión de la Información con formación en análisis de datos,
   programación, automatización de procesos, bases de datos y desarrollo de soluciones tecnológicas.
 </p>
 
